@@ -5,7 +5,7 @@ date: 2015-01-01 23:38:29+00:00
 layout: post
 title: Untitled-第一章（还在瞎写）
 categories:
-- MyFiction
+- Test
 ---
 
 生活的乏味，平淡，给了大脑足够的精力和养分去洒脱的飞舞一次。
